@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <string name="error_input_empty">The fields must not be empty</string>
+    <string name="error_not_a_valid_email">Please enter a valid E-Mail</string>
+    <string name="error_not_a_valid_phone_number">Please enter a valid phone number</string>
+    <string name="error_incorrectly_repeated_password">The passwords do not match</string>
+    <string name="error_invalid_credentials">The E-Mail or password is incorrect</string>
+    <string name="error_google">Google error</string>
+    <string name="success_registration">Successfully registered new user</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="network_occurred">No connexion</string>
+    <string name="success_login">Successfully logged in</string>
+    <string name="error_unknown">An unknown error occurred</string>
+    <string name="prefs_file">com.senyor_o.firebasechat.PREFERENCE_FILE_KEY</string>
+
+    <string name="facebook_app_id">807712314004796</string>
+    <string name="fb_login_protocol_scheme">fb807712314004796</string>
+    <string name="facebook_client_token">e3b193f519b093d397cb02a7b30c012e</string>
+    <string name="default_notification_channel_id">default_channel</string>
+
+</resources>
